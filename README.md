@@ -1,4 +1,6 @@
 ### Hi there 👋
+      I am Sejawal Mehmood
+      I am a Frontend Developer
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning JavaScript and React js
 - 💬 Ask me about html/css/bootstrap/javascript/react js
